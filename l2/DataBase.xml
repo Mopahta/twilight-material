@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<items>
+
+    <oven>
+	<powerConsumption>2000</powerConsumption>
+	<weight>5</weight>
+	<capacity>15</capacity>
+	<depth>30</depth>
+	<height>40</height>
+	<width>50</width>
+	<price>300</price>
+    </oven>
+	<laptop>
+		<batteryCapacity>1000</batteryCapacity>
+		<os>12</os>
+		<memoryRom>16</memoryRom>
+		<systemMemory>512</systemMemory>
+		<cpu>9900</cpu>
+		<displayInches>21</displayInches>
+		<price>1200</price>
+	</laptop>
+    <oven>
+	<powerConsumption>1800</powerConsumption>
+	<weight>5</weight>
+	<capacity>20</capacity>
+	<depth>30</depth>
+	<height>50</height>
+	<width>50</width>
+	<price>600</price>
+    </oven>
+	<vacuumcleaner>
+		<powerConsumption>1200</powerConsumption>
+		<filterType>air</filterType>
+		<bagType>3</bagType>
+		<wandType>2</wandType>
+		<motorSpeedRegulation>3600</motorSpeedRegulation>
+		<cleaningWidth>20</cleaningWidth>
+		<price>150</price>
+	</vacuumcleaner>
+    <oven>
+	<powerConsumption>1500</powerConsumption>
+	<weight>10</weight>
+	<capacity>25</capacity>
+	<depth>30</depth>
+	<height>40</height>
+	<width>50</width>
+	<price>350</price>
+    </oven>
+
+    <speakers>
+	<powerConsumption>10</powerConsumption>
+	<numberOfSpeakers>3</numberOfSpeakers>
+	<frequencyRange>20000</frequencyRange>
+	<cordLength>2</cordLength>
+	<price>50</price>
+    </speakers>
+	<refrigerator>
+		<powerConsumption>500</powerConsumption>
+		<weight>85</weight>
+		<freezerCapacity>20</freezerCapacity>
+		<overallCapacity>200</overallCapacity>
+		<height>180</height>
+		<width>50</width>
+		<price>600</price>
+	</refrigerator>
+    <tabletpc>
+	<batteryCapacity>5000</batteryCapacity>
+	<displayInches>13</displayInches>
+	<memoryRom>512</memoryRom>
+	<flashMemoryCapacity>256</flashMemoryCapacity>
+	<color>red</color>
+	<price>400</price>
+    </tabletpc>
+
+</items>
