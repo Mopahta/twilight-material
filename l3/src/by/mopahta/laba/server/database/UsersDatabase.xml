@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_172" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.bsuir.Kaminsky.models.User">
+    <void property="isAdministrator">
+     <boolean>true</boolean>
+    </void>
+    <void property="login">
+     <string>deniskaminsky123@mail.ru</string>
+    </void>
+    <void property="password">
+     <string>fc5e038d38a57032085441e7fe7010b0</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.Kaminsky.models.User">
+    <void property="isAdministrator">
+     <boolean>false</boolean>
+    </void>
+    <void property="login">
+     <string>andrew555@gmail.com</string>
+    </void>
+    <void property="password">
+     <string>34819d7beeabb9260a5c854bc85b3e44</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

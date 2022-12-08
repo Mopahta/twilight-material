@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_172" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.bsuir.Kaminsky.models.Book">
+    <void property="author">
+     <string>Толстой Л.Н.</string>
+    </void>
+    <void property="isElectronic">
+     <boolean>true</boolean>
+    </void>
+    <void property="title">
+     <string>Война и Мир</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.Kaminsky.models.Book">
+    <void property="author">
+     <string>Толстой Л.Н.</string>
+    </void>
+    <void property="isElectronic">
+     <boolean>false</boolean>
+    </void>
+    <void property="title">
+     <string>Детство</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.Kaminsky.models.Book">
+    <void property="author">
+     <string>Каминский Д.П.</string>
+    </void>
+    <void property="isElectronic">
+     <boolean>true</boolean>
+    </void>
+    <void property="title">
+     <string>Война и Мир</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
